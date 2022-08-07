@@ -55,7 +55,7 @@ Ao abrir o Cypress pela primeira vez será necessário ser feita algumas configu
 
 - Após selecionar a opção **E2E Testing**, selecionar o Chrome como browser e depois clicar em **Start E2E Testing in Chrome**;
 
-![image](https://user-images.githubusercontent.com/110433514/183308651-093736da-73f0-490c-b94b-d186fb34a0a7.png)
+![image](https://user-images.githubusercontent.com/110433514/183309294-39341744-0cb4-4b8c-b803-cb4df028a683.png)
 
 - Ao selecionar está opção será aberta uma página do Cypress no Chrome, onde será executado o teste, na opção **Specs**, clique no arquivo **login.cy.js**(esse é o arquivo onde está o código que irá rodar o teste pretendido), segue imagem de exemplo;
 
