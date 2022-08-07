@@ -49,7 +49,7 @@ npm run cypress:open
 ```
 Ao abrir o Cypress pela primeira vez será necessário ser feita algumas configurações, que serão detalhadas abaixo;
 
-- Após executar o comando acima irá abrir a primeira tela de interação do cypress, selecionar a opção **E2E Testing**,conforme mostrado na figura abaixo;
+- Após executar o comando acima irá abrir a primeira tela de interação do cypress, selecionar a opção **E2E Testing**, conforme mostrado na figura abaixo;
 
 ![image](https://user-images.githubusercontent.com/110433514/183308411-5245c976-8c0c-445f-bf23-d7ebff49dd55.png)
 
