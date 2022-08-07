@@ -3,7 +3,7 @@ O projeto tem como finalidade testar de forma automatizada 2 cenários para a va
 
 ### Dowload e clone do projeto:
 
-Para fazer o download do projeto através de uma pasta .zip basta clicar no link https://github.com/gabrieljoseh/Desafio_QA_UI.git, ou também é possível clonar a pasta do projeto através do terminal de sua máquina através da linha de comando abaixo:
+Para fazer o download do projeto através de uma pasta .zip basta clicar no link https://github.com/gabrieljoseh/Desafio_QA_UI/archive/refs/heads/main.zip, ou também é possível clonar a pasta do projeto através do terminal de sua máquina através da linha de comando abaixo:
 ```
 git clone https://github.com/gabrieljoseh/Desafio_QA_UI.git
 ```
