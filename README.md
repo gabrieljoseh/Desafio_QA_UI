@@ -1,5 +1,5 @@
 # Desafio_QA_UI
-O projeto tem como finalidade testar de forma automatizada 2 cenários para a validação de um login, são eles teste de login válido e teste de login inválido.Foi utilizado o site https://front.serverest.dev/ como cenário de teste para a criação dos cadastros.
+O projeto tem como finalidade testar de forma automatizada 2 cenários para a validação de um login, são eles teste de login válido e teste de login inválido. Foi utilizado o site https://front.serverest.dev/ como cenário de teste para a criação dos cadastros.
 
 ### Dowload e clone do projeto:
 
